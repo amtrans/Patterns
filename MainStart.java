@@ -28,7 +28,6 @@ public class MainStart {
         spearman.run();
         spearman.jump();
         spearman.fight();
-        System.out.println();
     }
 }
 
